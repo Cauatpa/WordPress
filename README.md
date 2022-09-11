@@ -1,4 +1,4 @@
-# WordPreess
+# WordPress
 
 <h2> Paleta </h2>
 
