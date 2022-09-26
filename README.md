@@ -1,9 +1,9 @@
 # WordPress - Portfólio
 
-<p> Link para Download do arquivo: https://drive.google.com/file/d/1zyG8BIZPoqwDstzRBBJ4qood5Yf9ldb6/view?usp=sharing </p>
+<p> Link para Download do arquivo: https://drive.google.com/file/d/1qpieZJPiC3JeAXpR6hflPx7S7SgTjoWq/view?usp=sharing </p>
 <p> Link do portfólio hospedado: https://caua-azevado.soukick.com.br/index/ </p>
 
-<p> PDF de imagem do site: [index - Cauã.pdf](https://github.com/Cauatpa/WordPress/files/9641714/index.-.Caua.pdf)
+<p> PDF de imagem do site: [index - Cauã.pdf](https://github.com/Cauatpa/WordPress/files/9649956/index.-.Caua.pdf)
 
 
 <h3> Seção #1 </h3>
@@ -19,7 +19,7 @@
 <h3> Seção #3 </h3>
 <p> Habilidades </p>
 
-![habilidades](https://user-images.githubusercontent.com/101412705/192150890-d2a67f06-063a-45c8-b82d-215e9965382e.jpeg)
+![WhatsApp Image 2022-09-26 at 19 08 41](https://user-images.githubusercontent.com/101412705/192389495-d05ceedb-76f7-4d8f-b865-fbfdb42f26ca.jpeg)
 
 
 <h3> Seção #4 </h3>
